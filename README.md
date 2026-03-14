@@ -15,9 +15,6 @@ Identify trends, high-performing products, and opportunities to improve business
 - Power Query
 - DAX
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## Data Source
 This project uses the **Superstore Sales dataset** from Kaggle.
 https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
